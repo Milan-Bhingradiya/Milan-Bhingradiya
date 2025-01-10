@@ -30,7 +30,7 @@ A multiplayer 1v1 aptitude game built with **Next.js**, **Node.js**, and **Postg
 A peer-to-peer video call app developed with **WebRTC** and **Socket.io**. [Live demo](https://video-call-webrtc-eight.vercel.app/).
 
 Here are some other projects I have worked on:
-1. [Portfolio Next.js](https://milanop.vercel.app/)(https://github.com/Milan-Bhingradiya/Portfolio_Nextjs) - A personal portfolio website built with **Next.js**.
+1. [Portfolio Next.js](https://milanop.vercel.app/) - A personal portfolio website built with **Next.js**.
 2. [Client Portfolio](https://smit-shah-portfolio-five.vercel.app/) - A client's portfolio site developed using **Next.js**.
 3. My biggest project when I started, though not fully satisfying as it’s not used in practice: [Bus Tracking App (Flutter MVVM)](https://github.com/Milan-Bhingradiya/Bustrackingapp_flutter_MVVM)
 

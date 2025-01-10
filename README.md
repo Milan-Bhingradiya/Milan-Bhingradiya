@@ -15,9 +15,9 @@ Welcome to my GitHub profile! I'm a passionate software developer and problem so
 ---
 
 ## 🛠️ Technologies I Use
-- **Languages**: JavaScript, TypeScript, C++, Python
-- **Frameworks & Libraries**: React.js, Next.js, Node.js, Express.js
-- **Databases**: PostgreSQL, MongoDB
+- **Languages**: JavaScript, TypeScript, C++, Python, Dart
+- **Frameworks & Libraries**: React.js, Next.js, Node.js, Express.js, Flutter
+- **Databases**: PostgreSQL, MongoDB, Firebase
 - **Tools & Platforms**: Heroku, Vercel, Git, WebRTC, Socket.io
 
 ---

@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and problem so
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [Video Call WebRTC App](https://github.com/Milan-Bhingradiya/video_call_webrtc)
+<!-- - 🔭 I’m currently working on [Video Call WebRTC App](https://github.com/Milan-Bhingradiya/video_call_webrtc) -->
 - 🌱 I’m learning **machine Learning** and **Deep Learning**
 - 💬 Ask me about **MERN stack**, **Socket.io**, and **C++**
 - ⚡ Fun fact: I love solving **LeetCode problems** every day!

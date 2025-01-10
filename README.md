@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and problem so
 
 ## 🌟 Projects
 ### [PlayAptitude](https://github.com/Milan-Bhingradiya/PlayAptitude)
-A multiplayer 1v1 aptitude game built with **Next.js**, **Node.js**, and **PostgreSQL**.
+A multiplayer 1v1 aptitude game built with **Next.js**, **Node.js**, and **PostgreSQL**.  [Live demo](https://play-aptitude.vercel.app/).
 
 ### [Video Call WebRTC](https://github.com/Milan-Bhingradiya/video_call_webrtc)
 A peer-to-peer video call app developed with **WebRTC** and **Socket.io**. [Live demo](https://video-call-webrtc-eight.vercel.app/).

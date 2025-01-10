@@ -37,9 +37,9 @@ Here are some other projects I have worked on:
 ---
 
 ## 📫 How to Reach Me
-- GitHub: [Milan-Bhingradiya](https://github.com/Milan-Bhingradiya)
-- Email: [Mail](mailto:milanbhingradiya00@gmail.com)
-- LinkedIn: [Milan Bhingradiya](https://www.linkedin.com/in/milanbhingradiya/)
+- [GitHub](https://github.com/Milan-Bhingradiya)
+- [Email](mailto:milanbhingradiya00@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/milanbhingradiya/)
 ---
 
 Thank you for stopping by! Feel free to check out my repositories and let’s connect!
